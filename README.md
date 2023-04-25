@@ -1,6 +1,10 @@
 # emoji-json
 JSON data for handling emojis. Compatible with v15.0.
 
+It is convenient to have a JSON data that provides information about emoji keywords, orders, and other details when creating an emoji picker or autocomplete for emoji input.  
+I have prepared JSON data that supports v15, and would like to share it with you.  
+If the response is positive, we will continue to support future versions, so please give us a star. Please also write your requests in the ISSUE section!
+
 ## Features
 - Support for emoji v15
 - order
