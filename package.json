@@ -1,0 +1,28 @@
+{
+  "name": "@arayutw/emoji-json",
+  "version": "1.0.0",
+  "description": "JSON data for handling emojis. Compatible with v15.0.",
+  "keywords": [
+    "emoji",
+    "json",
+    "data"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "homepage": "https://github.com/arayutw/emoji-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arayutw/emoji-json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arayutw/emoji-json/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Yuta Arai <arayutw@gmail.com>",
+  "license": "MIT"
+}
