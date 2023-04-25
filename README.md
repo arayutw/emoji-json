@@ -19,7 +19,7 @@ npm install @arayutw/emoji-json
 ## property
 ### `emoji.json`
 An object with the emoji ID as the key.
-```json
+```ts
 {
   "2049": {
     "category": "Symbols",  // category name string | null
