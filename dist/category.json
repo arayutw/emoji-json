@@ -1,0 +1,466 @@
+{
+  "Smileys & Emotion": {
+    "name": "Smileys & Emotion",
+    "order": 1,
+    "subcategory": {
+      "face-smiling": {
+        "name": "face-smiling",
+        "order": 1
+      },
+      "face-affection": {
+        "name": "face-affection",
+        "order": 2
+      },
+      "face-tongue": {
+        "name": "face-tongue",
+        "order": 3
+      },
+      "face-hand": {
+        "name": "face-hand",
+        "order": 4
+      },
+      "face-neutral-skeptical": {
+        "name": "face-neutral-skeptical",
+        "order": 5
+      },
+      "face-sleepy": {
+        "name": "face-sleepy",
+        "order": 6
+      },
+      "face-unwell": {
+        "name": "face-unwell",
+        "order": 7
+      },
+      "face-hat": {
+        "name": "face-hat",
+        "order": 8
+      },
+      "face-glasses": {
+        "name": "face-glasses",
+        "order": 9
+      },
+      "face-concerned": {
+        "name": "face-concerned",
+        "order": 10
+      },
+      "face-negative": {
+        "name": "face-negative",
+        "order": 11
+      },
+      "face-costume": {
+        "name": "face-costume",
+        "order": 12
+      },
+      "cat-face": {
+        "name": "cat-face",
+        "order": 13
+      },
+      "monkey-face": {
+        "name": "monkey-face",
+        "order": 14
+      },
+      "heart": {
+        "name": "heart",
+        "order": 15
+      },
+      "emotion": {
+        "name": "emotion",
+        "order": 16
+      }
+    }
+  },
+  "People & Body": {
+    "name": "People & Body",
+    "order": 2,
+    "subcategory": {
+      "hand-fingers-open": {
+        "name": "hand-fingers-open",
+        "order": 1
+      },
+      "hand-fingers-partial": {
+        "name": "hand-fingers-partial",
+        "order": 2
+      },
+      "hand-single-finger": {
+        "name": "hand-single-finger",
+        "order": 3
+      },
+      "hand-fingers-closed": {
+        "name": "hand-fingers-closed",
+        "order": 4
+      },
+      "hands": {
+        "name": "hands",
+        "order": 5
+      },
+      "hand-prop": {
+        "name": "hand-prop",
+        "order": 6
+      },
+      "body-parts": {
+        "name": "body-parts",
+        "order": 7
+      },
+      "person": {
+        "name": "person",
+        "order": 8
+      },
+      "person-gesture": {
+        "name": "person-gesture",
+        "order": 9
+      },
+      "person-role": {
+        "name": "person-role",
+        "order": 10
+      },
+      "person-fantasy": {
+        "name": "person-fantasy",
+        "order": 11
+      },
+      "person-activity": {
+        "name": "person-activity",
+        "order": 12
+      },
+      "person-sport": {
+        "name": "person-sport",
+        "order": 13
+      },
+      "person-resting": {
+        "name": "person-resting",
+        "order": 14
+      },
+      "family": {
+        "name": "family",
+        "order": 15
+      },
+      "person-symbol": {
+        "name": "person-symbol",
+        "order": 16
+      }
+    }
+  },
+  "Component": {
+    "name": "Component",
+    "order": 3,
+    "subcategory": {
+      "skin-tone": {
+        "name": "skin-tone",
+        "order": 1
+      },
+      "hair-style": {
+        "name": "hair-style",
+        "order": 2
+      }
+    }
+  },
+  "Animals & Nature": {
+    "name": "Animals & Nature",
+    "order": 4,
+    "subcategory": {
+      "animal-mammal": {
+        "name": "animal-mammal",
+        "order": 1
+      },
+      "animal-bird": {
+        "name": "animal-bird",
+        "order": 2
+      },
+      "animal-amphibian": {
+        "name": "animal-amphibian",
+        "order": 3
+      },
+      "animal-reptile": {
+        "name": "animal-reptile",
+        "order": 4
+      },
+      "animal-marine": {
+        "name": "animal-marine",
+        "order": 5
+      },
+      "animal-bug": {
+        "name": "animal-bug",
+        "order": 6
+      },
+      "plant-flower": {
+        "name": "plant-flower",
+        "order": 7
+      },
+      "plant-other": {
+        "name": "plant-other",
+        "order": 8
+      }
+    }
+  },
+  "Food & Drink": {
+    "name": "Food & Drink",
+    "order": 5,
+    "subcategory": {
+      "food-fruit": {
+        "name": "food-fruit",
+        "order": 1
+      },
+      "food-vegetable": {
+        "name": "food-vegetable",
+        "order": 2
+      },
+      "food-prepared": {
+        "name": "food-prepared",
+        "order": 3
+      },
+      "food-asian": {
+        "name": "food-asian",
+        "order": 4
+      },
+      "food-marine": {
+        "name": "food-marine",
+        "order": 5
+      },
+      "food-sweet": {
+        "name": "food-sweet",
+        "order": 6
+      },
+      "drink": {
+        "name": "drink",
+        "order": 7
+      },
+      "dishware": {
+        "name": "dishware",
+        "order": 8
+      }
+    }
+  },
+  "Travel & Places": {
+    "name": "Travel & Places",
+    "order": 6,
+    "subcategory": {
+      "place-map": {
+        "name": "place-map",
+        "order": 1
+      },
+      "place-geographic": {
+        "name": "place-geographic",
+        "order": 2
+      },
+      "place-building": {
+        "name": "place-building",
+        "order": 3
+      },
+      "place-religious": {
+        "name": "place-religious",
+        "order": 4
+      },
+      "place-other": {
+        "name": "place-other",
+        "order": 5
+      },
+      "transport-ground": {
+        "name": "transport-ground",
+        "order": 6
+      },
+      "transport-water": {
+        "name": "transport-water",
+        "order": 7
+      },
+      "transport-air": {
+        "name": "transport-air",
+        "order": 8
+      },
+      "hotel": {
+        "name": "hotel",
+        "order": 9
+      },
+      "time": {
+        "name": "time",
+        "order": 10
+      },
+      "sky & weather": {
+        "name": "sky & weather",
+        "order": 11
+      }
+    }
+  },
+  "Activities": {
+    "name": "Activities",
+    "order": 7,
+    "subcategory": {
+      "event": {
+        "name": "event",
+        "order": 1
+      },
+      "award-medal": {
+        "name": "award-medal",
+        "order": 2
+      },
+      "sport": {
+        "name": "sport",
+        "order": 3
+      },
+      "game": {
+        "name": "game",
+        "order": 4
+      },
+      "arts & crafts": {
+        "name": "arts & crafts",
+        "order": 5
+      }
+    }
+  },
+  "Objects": {
+    "name": "Objects",
+    "order": 8,
+    "subcategory": {
+      "clothing": {
+        "name": "clothing",
+        "order": 1
+      },
+      "sound": {
+        "name": "sound",
+        "order": 2
+      },
+      "music": {
+        "name": "music",
+        "order": 3
+      },
+      "musical-instrument": {
+        "name": "musical-instrument",
+        "order": 4
+      },
+      "phone": {
+        "name": "phone",
+        "order": 5
+      },
+      "computer": {
+        "name": "computer",
+        "order": 6
+      },
+      "light & video": {
+        "name": "light & video",
+        "order": 7
+      },
+      "book-paper": {
+        "name": "book-paper",
+        "order": 8
+      },
+      "money": {
+        "name": "money",
+        "order": 9
+      },
+      "mail": {
+        "name": "mail",
+        "order": 10
+      },
+      "writing": {
+        "name": "writing",
+        "order": 11
+      },
+      "office": {
+        "name": "office",
+        "order": 12
+      },
+      "lock": {
+        "name": "lock",
+        "order": 13
+      },
+      "tool": {
+        "name": "tool",
+        "order": 14
+      },
+      "science": {
+        "name": "science",
+        "order": 15
+      },
+      "medical": {
+        "name": "medical",
+        "order": 16
+      },
+      "household": {
+        "name": "household",
+        "order": 17
+      },
+      "other-object": {
+        "name": "other-object",
+        "order": 18
+      }
+    }
+  },
+  "Symbols": {
+    "name": "Symbols",
+    "order": 9,
+    "subcategory": {
+      "transport-sign": {
+        "name": "transport-sign",
+        "order": 1
+      },
+      "warning": {
+        "name": "warning",
+        "order": 2
+      },
+      "arrow": {
+        "name": "arrow",
+        "order": 3
+      },
+      "religion": {
+        "name": "religion",
+        "order": 4
+      },
+      "zodiac": {
+        "name": "zodiac",
+        "order": 5
+      },
+      "av-symbol": {
+        "name": "av-symbol",
+        "order": 6
+      },
+      "gender": {
+        "name": "gender",
+        "order": 7
+      },
+      "math": {
+        "name": "math",
+        "order": 8
+      },
+      "punctuation": {
+        "name": "punctuation",
+        "order": 9
+      },
+      "currency": {
+        "name": "currency",
+        "order": 10
+      },
+      "other-symbol": {
+        "name": "other-symbol",
+        "order": 11
+      },
+      "keycap": {
+        "name": "keycap",
+        "order": 12
+      },
+      "alphanum": {
+        "name": "alphanum",
+        "order": 13
+      },
+      "geometric": {
+        "name": "geometric",
+        "order": 14
+      }
+    }
+  },
+  "Flags": {
+    "name": "Flags",
+    "order": 10,
+    "subcategory": {
+      "flag": {
+        "name": "flag",
+        "order": 1
+      },
+      "country-flag": {
+        "name": "country-flag",
+        "order": 2
+      },
+      "subdivision-flag": {
+        "name": "subdivision-flag",
+        "order": 3
+      }
+    }
+  }
+}
